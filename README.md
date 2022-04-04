@@ -148,10 +148,10 @@
 
 ## [Deploy To Heroku](https://heroku.com/deploy/)
 
-If Deploy Button is not working watch the Tutorial Videos.
+## If Deploy Button is not working watch the Tutorial Videos.
 
 
-### [Tutorial Video 1](https://youtube.com/c/technologyrk)
+## [Tutorial Video 1](https://youtube.com/c/technologyrk)
 
 ## CREDITS
 
