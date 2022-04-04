@@ -1,12 +1,7 @@
-[![GreyMatter's Bot LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)](https://t.me/+396rgEDG8BowMWY5)
+
 
 ## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
-[![GreyMatter's Support](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)](https://t.me/greymatters_bots_discussion)
-
-## **Don't Kill Heroku please ☹️**
-
-[![GreyMatter's Bot](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/greymatter_bots)
 
 
 
@@ -29,7 +24,6 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
 
 ##### Mandatory Variables
 
@@ -44,7 +38,6 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
 
 ##### Optional Configuration Variables
 
@@ -150,8 +143,6 @@
 ➢ `/status`
 
 
-[![GreyMatter](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/GreyMatter_bots)
-
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
 
@@ -159,10 +150,9 @@
 
 If Deploy Button is not working watch the Tutorial Videos.
 
-### [Tutorial Video 1](https://youtu.be/exbZkRHT8LU)
-### [Tutorial Video 2](https://youtu.be/he4Wz7Rdb80)
-### [Tutorial Video with Mirror-Leech](https://youtu.be/aqdx3-785BI)
-   
+
+### [Tutorial Video 1](https://youtube.com/c/technologyrk)
+
 ## CREDITS
 
  - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
